@@ -1,0 +1,5 @@
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.dll.config
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.dll
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.pdb
+D:\Projects\My Projects\local\RjWcfService\RedPillService\obj\Release\RedPillService.dll
+D:\Projects\My Projects\local\RjWcfService\RedPillService\obj\Release\RedPillService.pdb

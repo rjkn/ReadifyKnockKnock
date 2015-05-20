@@ -1,0 +1,6 @@
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.dll.config
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.dll
+D:\Projects\My Projects\local\RjWcfService\RedPillService\bin\RedPillService.pdb
+D:\Projects\My Projects\local\RjWcfService\RedPillService\obj\Debug\RedPillService.dll
+D:\Projects\My Projects\local\RjWcfService\RedPillService\obj\Debug\RedPillService.pdb
+D:\Projects\My Projects\local\RjWcfService\RedPillService\obj\Debug\RedPillService.csprojResolveAssemblyReference.cache

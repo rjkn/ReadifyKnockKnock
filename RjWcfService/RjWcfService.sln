@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPillService", "RedPillService\RedPillService.csproj", "{F234AD2C-B548-4915-B4E8-8C2D7921D13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F234AD2C-B548-4915-B4E8-8C2D7921D13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F234AD2C-B548-4915-B4E8-8C2D7921D13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F234AD2C-B548-4915-B4E8-8C2D7921D13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F234AD2C-B548-4915-B4E8-8C2D7921D13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
